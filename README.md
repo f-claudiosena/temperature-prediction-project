@@ -2,7 +2,7 @@
 
 Este projeto tem como objetivo prever a temperatura (em graus Celsius) com base em dados meteorológicos históricos. Utiliza-se análise exploratória, engenharia de atributos e modelos de Aprendizado de Máquina para construir predições robustas.
 
-This project aims to predict temperature (in Celsius) based on historical weather data. Exploratory analysis, feature engineering, and Machine Learning models are used to create robust predictions.
+This project aims to predict temperature (in Celsius) based on historical weather data. EDA (Exploratory Data Analysis), feature engineering, and Machine Learning models are used to create robust predictions.
 
 ## Dataset
 - Fonte: https://www.kaggle.com/datasets/muthuj7/weather-dataset?resource=download
